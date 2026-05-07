@@ -1,7 +1,8 @@
 
 <img width="1536" height="1024" alt="ChatGPT Image 7 may 2026, 10_35_13" src="https://github.com/user-attachments/assets/58086004-73d9-460a-8eda-e26000268937" />
 
-📂 Mi Portfolio de QA Automation & Software Development
+<h2>📂 Mi Portfolio de QA Automation & Software Development</h2>
+
 ¡Hola! Soy Joaquín Frías, un apasionado de la calidad de software y el desarrollo. 
 Este repositorio centraliza mis proyectos de automatización, donde aplico patrones de diseño avanzados y herramientas modernas para asegurar que el software sea confiable y escalable.
 🛠️ Tecnologías y Herramientas
@@ -9,7 +10,7 @@ Herramientas Testing Playwright, Selenium, Postman (API Testing), RestAssured
 Lenguajes TypeScript, JavaScript, Java 
 PatronesPage Object Model (POM), Factory Pattern, FixturesCI/CD & DevOpsGitHub Actions, GitReportesAllure Reports, Playwright HTML Reports
 
-🚀 Proyectos Destacados1. 
+🚀 Proyectos Destacados. 
 Automation Exercise - Playwright Framework 
 Automatización completa del flujo de negocio en una plataforma de e-commerce real.
 Stack: Playwright + TypeScript.
