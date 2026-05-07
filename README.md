@@ -72,13 +72,15 @@ Soy un apasionado de la **calidad de software y el desarrollo**. Este repositori
     *   **Factory Pattern:** Generación de datos dinámicos mediante *timestamps*.
     *   **Reporting:** Integración de capturas de pantalla automáticas ante fallos.
 
-[🔗 Ver Código del Proyecto](https://github.com/tu-usuario/automation-exercise)
+[🔗 Ver Código del Proyecto](https://github.com/joaquinfriass/AutomationExercisePlaywright)
 
 ### 2. API Testing Framework
 > Suite de pruebas para validación de endpoints y contratos de servicios.
 
 *   **Herramientas:** `Postman` / `RestAssured`.
 *   **Alcance:** Validación de status codes, esquemas JSON y flujos de datos encadenados.
+
+[🔗 Ver Código del Proyecto](https://github.com/joaquinfriass/RestAssured_Allure_AEAPI)
 
 ---
 
