@@ -1,5 +1,5 @@
 <img width="2172" height="724" alt="ChatGPT Image 8 may 2026, 08_08_27 (1)" src="https://github.com/user-attachments/assets/14298cfd-5cb7-42d6-9026-0d94a250effc" />
-<img width="1536" height="1024" alt="ChatGPT Image 7 may 2026, 10_35_13" src="https://github.com/user-attachments/assets/58086004-73d9-460a-8eda-e26000268937" />
+
 
 <div align="center">
   <h1>📂 Mi Portfolio de QA Automation & Software Development</h1>
