@@ -101,13 +101,19 @@ I am passionate about **software quality and development**. This profile brings 
 Would you like to talk about software testing, automation, or development? **Let's connect!**
 
 <p align="left">
-  <a href="www.linkedin.com/in/joaquin-frias-b78935242" target="_blank">
+  <a href="https://www.linkedin.com/in/joaquín-qa-tester-b78935242" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:gjoaquinfrias@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:joaquin124507@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
+
+🔗 **LinkedIn:**  
+<https://www.linkedin.com/in/joaquín-qa-tester-b78935242>
+
+📧 **Email:**  
+joaquin124507@gmail.com
 
 ---
 
