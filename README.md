@@ -87,6 +87,15 @@ I am passionate about **software quality and development**. This profile brings 
 
 ---
 
+## 🎓 Academic Projects
+
+The following demonstration projects were developed as part of my **Software Development Technical Degree program**:
+
+- 🛡️ [SeguFor — Personal Safety Application](https://github.com/joaquinfriass/Repositorio-SeguForApp)
+- 🩺 [MediAgenda — Medical Appointment Management](https://github.com/joaquinfriass/MediAgenda)
+
+---
+
 ## 📈 Education & Certifications
 
 - 🎓 **Associate Degree in Software Development** — Graduated in 2025
