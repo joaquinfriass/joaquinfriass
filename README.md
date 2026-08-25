@@ -1,23 +1,23 @@
-<img width="2172" height="724" alt="ChatGPT Image 8 may 2026, 08_08_27 (1)" src="https://github.com/user-attachments/assets/14298cfd-5cb7-42d6-9026-0d94a250effc" />
-
+<img width="2172" height="724" alt="QA Automation and Software Development Portfolio Banner" src="https://github.com/user-attachments/assets/14298cfd-5cb7-42d6-9026-0d94a250effc" />
 
 <div align="center">
-  <h1>📂 Mi Portfolio de QA Automation & Software Development</h1>
+  <h1>📂 My QA Automation & Software Development Portfolio</h1>
   <p>
-    <img src="https://img.shields.io/badge/Playwright-326200?style=for-the-badge&logo=playwright&logoColor=white" />
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/Playwright-326200?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   </p>
 </div>
 
 ---
 
-### 👋 ¡Hola! Soy Joaquín Frías
-Soy un apasionado de la **calidad de software y el desarrollo**. Este repositorio centraliza mis proyectos de automatización, donde aplico patrones de diseño avanzados y herramientas modernas para asegurar que el software sea confiable, eficiente y escalable.
+### 👋 Hi! I'm Joaquín Frías
+
+I am passionate about **software quality and development**. This profile brings together my automation projects, where I apply modern tools and advanced design patterns to build reliable, efficient, and scalable testing solutions.
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
+## 🛠️ Technologies and Tools
 
 <table width="100%">
   <tr>
@@ -27,11 +27,11 @@ Soy un apasionado de la **calidad de software y el desarrollo**. Este repositori
         <li>Playwright</li>
         <li>Selenium</li>
         <li>Postman (API Testing)</li>
-        <li>RestAssured</li>
+        <li>REST Assured</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h4>💻 Lenguajes & Frameworks</h4>
+      <h4>💻 Languages & Frameworks</h4>
       <ul>
         <li>TypeScript / JavaScript</li>
         <li>Java</li>
@@ -41,7 +41,7 @@ Soy un apasionado de la **calidad de software y el desarrollo**. Este repositori
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🏗️ Patrones y Arquitectura</h4>
+      <h4>🏗️ Design Patterns & Architecture</h4>
       <ul>
         <li>Page Object Model (POM)</li>
         <li>Factory Pattern</li>
@@ -49,7 +49,7 @@ Soy un apasionado de la **calidad de software y el desarrollo**. Este repositori
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h4>🚀 DevOps & Reportes</h4>
+      <h4>🚀 DevOps & Reporting</h4>
       <ul>
         <li>GitHub Actions / Git</li>
         <li>Allure Reports</li>
@@ -61,51 +61,56 @@ Soy un apasionado de la **calidad de software y el desarrollo**. Este repositori
 
 ---
 
-## 🚀 Proyectos Destacados
+## 🚀 Featured Projects
 
-### 1. Automation Exercise - Playwright Framework
-> Automatización completa del flujo de negocio en una plataforma de e-commerce real.
+### 1. Automation Exercise — Playwright Framework
 
-*   **Stack:** `Playwright` + `TypeScript`.
-*   **Prácticas implementedas:**
-    *   **Page Object Model (POM):** Modularización de selectores y acciones.
-    *   **Fixtures:** Setup y teardown eficiente para optimizar tiempos de ejecución.
-    *   **Factory Pattern:** Generación de datos dinámicos mediante *timestamps*.
-    *   **Reporting:** Integración de capturas de pantalla automáticas ante fallos.
+> End-to-end automation of business workflows on a real-world e-commerce platform.
 
-[🔗 Ver Código del Proyecto](https://github.com/joaquinfriass/AutomationExercisePlaywright)
+- **Tech stack:** `Playwright` + `TypeScript`
+- **Practices implemented:**
+  - **Page Object Model (POM):** Modular organization of selectors and actions.
+  - **Fixtures:** Efficient setup and teardown to optimize execution time.
+  - **Factory Pattern:** Dynamic test data generation using timestamps.
+  - **Reporting:** Automatic screenshot capture when a test fails.
+
+[🔗 View Project Repository](https://github.com/joaquinfriass/AutomationExercisePlaywright)
 
 ### 2. API Testing Framework
-> Suite de pruebas para validación de endpoints y contratos de servicios.
 
-*   **Herramientas:** `Postman` / `RestAssured`.
-*   **Alcance:** Validación de status codes, esquemas JSON y flujos de datos encadenados.
+> Automated test suite for validating API endpoints and service contracts.
 
-[🔗 Ver Código del Proyecto](https://github.com/joaquinfriass/RestAssured_Allure_AEAPI)
+- **Tools:** `Postman` / `REST Assured`
+- **Scope:** Status code validation, JSON schema verification, and chained data-flow testing.
 
----
-
-## 📈 Formación & Certificaciones
-
-*   🎓 **Tecnicatura en Desarrollo de Software** (Graduado - 2025)
-*   📜 **Especialización en QA Manual y Automatizado** (2025)
-*   🎯 **Foco Actual:** Especialización en Senior Automation con Playwright & TypeScript.
+[🔗 View Project Repository](https://github.com/joaquinfriass/RestAssured_Allure_AEAPI)
 
 ---
 
-## 📫 Contacto
-¿Te gustaría charlar sobre testing o desarrollo? **¡Conectemos!**
+## 📈 Education & Certifications
+
+- 🎓 **Associate Degree in Software Development** — Graduated in 2025
+- 📜 **Manual and Automated QA Specialization** — 2025
+- 🎯 **Current Focus:** Advanced test automation with Playwright and TypeScript
+- 🏅 **IT Certifications:** [View my certifications repository](https://github.com/joaquinfriass/Certifications)
+
+---
+
+## 📫 Contact
+
+Would you like to talk about software testing, automation, or development? **Let's connect!**
 
 <p align="left">
   <a href="https://www.linkedin.com/in/joaquín-qa-tester-b78935242" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:joaquin124507@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 ---
+
 <div align="center">
-  <sub>Desarrollado con ❤️ por Joaquín Frías. 2026.</sub>
+  <sub>Built with ❤️ by Joaquín Frías · 2026</sub>
 </div>
