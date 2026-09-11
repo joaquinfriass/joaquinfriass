@@ -1,236 +1,272 @@
-```md
-<img width="2172" height="724" alt="QA Testing Portfolio Banner" src="https://github.com/user-attachments/assets/14298cfd-5cb7-42d6-9026-0d94a250effc" />
-
 <div align="center">
-  <h1>🧪 QA Tester | Software Quality Portfolio</h1>
 
-  <p>
-    Manual Testing · API Testing · SQL · Test Automation · CI/CD
-  </p>
+# 🧪 Portfolio QA Tester | Calidad de Software
 
-  <p>
-    <img src="https://img.shields.io/badge/Manual_Testing-0052CC?style=for-the-badge" alt="Manual Testing" />
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-    <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
-    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  </p>
+**Testing Manual · API Testing · SQL · Automatización · CI/CD**
+
+![Manual Testing](https://img.shields.io/badge/Manual_Testing-0052CC?style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge\&logo=playwright\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+
 </div>
 
 ---
 
-## 👋 About Me
+## 👋 Sobre mí
 
-I'm **Joaquín Frías**, a QA Tester focused on building practical experience across the complete software quality process.
+Soy **Joaquín Frías**, Técnico Superior en Desarrollo de Software orientado profesionalmente al área de **Quality Assurance y Software Testing**.
 
-My portfolio is centered exclusively on **Software Testing and Quality Assurance**, covering product discovery, test strategy, manual and exploratory testing, API validation, SQL testing, test automation, defect reporting, traceability and continuous integration.
+Mi portfolio está enfocado en demostrar conocimientos y experiencia práctica en las distintas etapas del proceso de calidad de software:
 
-My goal is to grow professionally as a **QA Tester / QA Analyst**, combining strong functional testing skills with technical knowledge in APIs, databases and automation.
+* Análisis funcional
+* Discovery del producto
+* Estrategia de pruebas
+* Testing manual
+* Testing exploratorio
+* Diseño y ejecución de casos de prueba
+* Reporte de defectos
+* API Testing
+* SQL Testing
+* Automatización
+* Integración continua
 
----
-
-## 🎯 QA Focus
-
-- Functional Testing
-- Exploratory Testing
-- Test Case Design and Execution
-- Test Strategy and Test Planning
-- Requirements Analysis
-- Defect Reporting and Tracking
-- Regression Testing
-- End-to-End Testing
-- API Testing
-- Database Testing with SQL
-- UI and API Test Automation
-- Test Evidence and Traceability
-- Continuous Integration
+Mi objetivo profesional es continuar desarrollándome como **QA Tester / QA Analyst**, combinando una sólida base funcional con conocimientos técnicos en **APIs, SQL y automatización**.
 
 ---
 
-## 🛠️ QA Tools & Technologies
+# 🎯 Áreas de enfoque
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🧪 Manual & Functional Testing</h4>
-      <ul>
-        <li>Test Cases</li>
-        <li>Exploratory Testing</li>
-        <li>Regression Testing</li>
-        <li>Bug Reporting</li>
-        <li>Test Strategy</li>
-        <li>Traceability</li>
-        <li>Jira</li>
-      </ul>
-    </td>
+Actualmente estoy desarrollando conocimientos y evidencia práctica en:
 
-    <td width="50%" valign="top">
-      <h4>🔌 API Testing</h4>
-      <ul>
-        <li>Postman</li>
-        <li>REST Assured</li>
-        <li>REST APIs</li>
-        <li>JSON Schema Validation</li>
-        <li>Positive & Negative Testing</li>
-      </ul>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🤖 Test Automation</h4>
-      <ul>
-        <li>Playwright + TypeScript</li>
-        <li>Selenium WebDriver + Java</li>
-        <li>Cucumber / BDD</li>
-        <li>Page Object Model</li>
-        <li>Fixtures & Hooks</li>
-      </ul>
-    </td>
-
-    <td width="50%" valign="top">
-      <h4>🗄️ Data, CI & Reporting</h4>
-      <ul>
-        <li>SQL / MySQL / MariaDB</li>
-        <li>Git & GitHub</li>
-        <li>GitHub Actions</li>
-        <li>Allure Reports</li>
-        <li>Playwright HTML Reports</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+* ✅ Testing Funcional
+* ✅ Testing Exploratorio
+* ✅ Diseño de Casos de Prueba
+* ✅ Ejecución de Pruebas
+* ✅ Análisis de Requerimientos
+* ✅ Estrategias de Pruebas
+* ✅ Planes de Prueba
+* ✅ Reporte y Seguimiento de Bugs
+* ✅ Pruebas de Regresión
+* ✅ Pruebas End-to-End
+* ✅ API Testing
+* ✅ SQL Testing
+* ✅ Automatización UI
+* ✅ Automatización de APIs
+* ✅ Trazabilidad
+* ✅ Integración Continua
 
 ---
 
-# 🚀 Featured QA Projects
+# 🛠️ Herramientas y tecnologías
 
-## 1. HESK — End-to-End Software Quality Project
+## 🧪 Testing Manual
 
-> Complete QA project built around the HESK Help Desk platform, covering the software quality process from product understanding to automated testing and continuous integration.
+* Jira
+* Casos de prueba
+* Testing exploratorio
+* Testing funcional
+* Pruebas de regresión
+* Pruebas End-to-End
+* Reporte de bugs
+* Estrategias de pruebas
+* Trazabilidad
 
-The project is structured in progressive QA stages:
+## 🔌 API Testing
 
-- Product Discovery
-- Roles and permissions analysis
-- Business flow analysis
-- Test Strategy
-- Functional Testing
-- Exploratory Testing
-- API Testing
-- SQL / Database Validation
-- API Automation
-- UI Automation
-- Continuous Integration
+* Postman
+* REST Assured
+* REST APIs
+* JSON
+* JSON Schema Validation
+* Headers
+* Query Params
+* Authentication
+* Pruebas positivas y negativas
 
-📌 The project is initially developed and documented in **Notion**.
+## 🤖 Automatización
 
-As each QA stage is completed, the documentation and evidence are progressively migrated to **GitHub**, creating a public and traceable portfolio of the complete testing process.
+* Playwright
+* TypeScript
+* Selenium WebDriver
+* Java
+* Cucumber
+* BDD
+* Page Object Model
+* Fixtures
+* Hooks
 
-[🔗 View HESK QA Project](https://github.com/joaquinfriass/Hesk-Project)
+## 🗄️ Bases de datos, CI y reportes
 
----
-
-## 2. Automation Exercise — Playwright
-
-> End-to-end UI automation project focused on validating business workflows in an e-commerce application.
-
-**Stack:** `Playwright` + `TypeScript`
-
-### Practices implemented
-
-- Page Object Model
-- Fixtures
-- Reusable test data
-- Assertions
-- Automatic screenshots on failure
-- HTML reporting
-
-[🔗 View Playwright Project](https://github.com/joaquinfriass/AutomationExercisePlaywright)
-
----
-
-## 3. API Testing — REST Assured
-
-> Automated API testing project focused on validating endpoints, responses and service contracts.
-
-**Stack:** `Java` + `REST Assured`
-
-### Validations included
-
-- Status codes
-- Response bodies
-- Headers
-- JSON Schema
-- Data deserialization
-- Positive and negative scenarios
-- Allure reporting
-
-[🔗 View API Automation Project](https://github.com/joaquinfriass/RestAssured_Allure_AEAPI)
+* SQL
+* MySQL
+* MariaDB
+* Git
+* GitHub
+* GitHub Actions
+* Allure Reports
+* Playwright HTML Reports
 
 ---
 
-# 📚 QA Knowledge
+# 🚀 Proyectos destacados de QA
 
-I work with concepts and practices such as:
+## 🧪 1. HESK — Proyecto Integral de Calidad de Software
 
-- Software Testing Life Cycle (STLC)
-- Test Levels and Test Types
-- Test Design Techniques
-- Acceptance Criteria
-- Risk-Based Testing
-- Defect Lifecycle
-- Severity vs Priority
-- Test Coverage
-- Requirement Traceability
-- Client-Server Architecture
-- HTTP Methods and Status Codes
-- REST APIs
-- Relational Databases
-- SQL Queries
-- CI/CD applied to automated testing
+Proyecto completo de **Quality Assurance** aplicado sobre la plataforma de Help Desk **HESK**.
 
----
+El objetivo es recorrer progresivamente las principales etapas de un proceso de calidad de software.
 
-# 🎓 Education & Certifications
+### Etapas del proyecto
 
-- 🎓 **Associate Degree in Software Development** — Graduated in 2025
-- 🧪 **Manual and Automated QA Training**
-- 🔌 **API Testing with Postman**
-- 🤖 **API Automation with Java & REST Assured**
-- 🌐 **UI Automation with Selenium, Cucumber and Java**
-- 🎯 **Current Focus:** QA Analysis, API Testing, SQL and Playwright + TypeScript
+* ✅ Discovery
+* ⏳ Estrategia de pruebas
+* ⏳ Diseño de casos de prueba
+* ⏳ Testing funcional
+* ⏳ Testing exploratorio
+* ⏳ API Testing
+* ⏳ Validaciones SQL
+* ⏳ Automatización de APIs
+* ⏳ Automatización UI
+* ⏳ Integración continua
 
-🏅 [View QA & IT Certifications](https://github.com/joaquinfriass/Certifications)
+### 📋 Metodología de trabajo
 
----
+El desarrollo, análisis y documentación inicial de cada etapa se realiza en **Notion**.
 
-# 📈 Current Goal
+A medida que cada etapa queda finalizada, la documentación y las evidencias son migradas progresivamente a **GitHub**.
 
-My current goal is to grow professionally as a **QA Tester / QA Analyst**, building evidence-based projects that demonstrate how I approach software quality from analysis and test design to execution, defect reporting and automation.
+De esta forma, el repositorio funciona como un **portfolio público y trazable del proceso completo de QA**.
 
-I am especially focused on:
+### 🔗 Proyecto
 
-**Functional Testing + API Testing + SQL + Automation**
+[Ver Proyecto HESK](https://github.com/joaquinfriass/Hesk-Project)
 
 ---
 
-# 📫 Contact
+## 🤖 2. Automation Exercise — Playwright
 
-Interested in Software Testing, QA or Quality Engineering? Let's connect.
+Proyecto de automatización **End-to-End** aplicado sobre una plataforma de comercio electrónico.
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/joaquin-frias-b78935242" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+### Tecnologías
 
-  <a href="mailto:joaquin124507@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
+* Playwright
+* TypeScript
+
+### Prácticas implementadas
+
+* Page Object Model
+* Fixtures
+* Hooks
+* Assertions
+* Datos de prueba reutilizables
+* Capturas automáticas ante errores
+* Reportes HTML
+* Pruebas End-to-End
+
+### 🔗 Proyecto
+
+[Ver Proyecto Playwright](https://github.com/joaquinfriass/AutomationExercisePlaywright)
+
+---
+
+## 🔌 3. API Automation — REST Assured
+
+Proyecto de automatización de pruebas sobre APIs REST.
+
+### Tecnologías
+
+* Java
+* REST Assured
+* Allure Report
+
+### Validaciones implementadas
+
+* Status Codes
+* Response Body
+* Headers
+* JSON Schema
+* Deserialización
+* Escenarios positivos
+* Escenarios negativos
+* Generación de reportes
+
+### 🔗 Proyecto
+
+[Ver Proyecto REST Assured](https://github.com/joaquinfriass/RestAssured_Allure_AEAPI)
+
+---
+
+# 📚 Conocimientos de QA
+
+Trabajo y continúo profundizando conceptos relacionados con:
+
+* Software Testing Life Cycle — STLC
+* Niveles de prueba
+* Tipos de prueba
+* Técnicas de diseño de casos
+* Criterios de aceptación
+* Risk-Based Testing
+* Ciclo de vida de defectos
+* Severidad vs Prioridad
+* Cobertura de pruebas
+* Trazabilidad de requerimientos
+* Arquitectura Cliente-Servidor
+* HTTP
+* Métodos HTTP
+* Status Codes
+* REST APIs
+* JSON
+* Bases de datos relacionales
+* SQL
+* Automatización
+* CI/CD aplicado a testing
+
+---
+
+# 🎓 Formación y certificaciones
+
+* 🎓 **Técnico Superior en Desarrollo de Software**
+* 🧪 Testing Manual y Automatizado
+* 🔌 API Testing con Postman
+* 🤖 API Automation con Java y REST Assured
+* 🌐 Automatización UI con Selenium WebDriver
+* 🥒 Cucumber y BDD
+* 🎭 Playwright y TypeScript
+* 🗄️ SQL aplicado a QA
+
+### 🏅 Certificaciones
+
+[Ver mis certificaciones](https://github.com/joaquinfriass/Certifications)
+
+---
+
+# 📈 Objetivo profesional
+
+Mi objetivo es continuar desarrollándome como **QA Tester / QA Analyst**, construyendo proyectos que demuestren de forma práctica cómo abordo la calidad del software desde el análisis inicial hasta la ejecución, documentación y automatización de pruebas.
+
+Mi principal enfoque profesional actualmente es:
+
+## `QA Funcional + API Testing + SQL + Automatización`
+
+Busco desarrollar un perfil de QA que combine una fuerte visión funcional con conocimientos técnicos.
+
+---
+
+# 📫 Contacto
+
+Podés contactarme a través de:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Joaquín_Frías-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/joaquin-frias-b78935242)
+
+[![Gmail](https://img.shields.io/badge/Gmail-Contacto-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:joaquin124507@gmail.com)
 
 ---
 
 <div align="center">
-  <sub>QA Portfolio · Joaquín Frías · 2026</sub>
+
+### 🧪 Quality Assurance · Software Testing · QA Automation
+
+**Portfolio QA — Joaquín Frías · 2026**
+
 </div>
-```
