@@ -20,7 +20,7 @@ Soy **Joaquín Frías**, Técnico Superior en Desarrollo de Software orientado p
 Mi portfolio está enfocado en demostrar conocimientos y experiencia práctica en las distintas etapas del proceso de calidad de software:
 
 * Análisis funcional
-* Discovery del producto
+* Descubrimiento del producto
 * Estrategia de pruebas
 * Testing manual
 * Testing exploratorio
