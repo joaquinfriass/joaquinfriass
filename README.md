@@ -18,7 +18,7 @@
 
 Analista de Calidad con 2 años de experiencia auditando procesos y validando datos en entornos de alto volumen, en transición hacia **QA Automation**. Soy Técnico Superior en Desarrollo de Software y estoy en formación intensiva hasta diciembre de 2026, construyendo proyectos de automatización que quedan publicados acá.
 
-Busco mi primera posición como **QA Automation Jr / Trainee**, en modalidad remota.
+Busco mi primera posición como **QA Automation Jr / Trainee**.
 
 ---
 
