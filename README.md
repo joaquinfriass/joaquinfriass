@@ -2,7 +2,7 @@
 
 <img width="1400" height="350" alt="image" src="https://github.com/user-attachments/assets/0b9f298f-6e32-45a7-aec5-1f7fc16c1b59" />
 
-# Joaquín Frías | QA Automation
+# Joaquín Frías | QA Automation Engineer
 
 **Playwright · TypeScript · Testing de APIs · SQL · CI/CD**
 
