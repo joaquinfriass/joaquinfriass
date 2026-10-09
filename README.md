@@ -4,7 +4,7 @@
 
 **Playwright · TypeScript · API testing · SQL**
 
-📍 Formosa, Argentina · 🔎 Busco mi primera posición como **QA Automation Jr / Trainee**
+📍 Formosa, Argentina · 🔎 Busco mi primera posición como **QA Automation Engineer**
 
 ---
 
