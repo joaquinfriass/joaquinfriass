@@ -45,7 +45,7 @@ Proyectos de software desarrollados durante la **Tecnicatura Superior en Desarro
 
 | Proyecto | Materia | Tecnologías |
 |---|---|---|
-| [MediAgenda](https://github.com/joaquinfriass/MediAgenda) | Práctica Profesionalizante II | C#, .NET 8, .NET MAUI, Entity Framework Core, SQLite (Android y Windows) |
+| [MediAgenda](https://github.com/joaquinfriass/MediAgenda) | Prácticas Profesionalizantes II | C#, .NET 8, .NET MAUI, Entity Framework Core, SQLite (Android y Windows) |
 | [SeguFor](https://github.com/joaquinfriass/Repositorio-SeguForApp) | Calidad de Software y Desarrollo de Aplicaciones Móviles | React Native, Expo, PHP, MySQL |
 
 - **MediAgenda:** gestión de turnos médicos entre pacientes y profesionales: directorio de clínicas, filtro por especialidad, reserva y cancelación de turnos.
