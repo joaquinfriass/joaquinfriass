@@ -14,7 +14,7 @@ Vengo de la calidad operativa: dos años como analista de calidad y back office 
 
 - 🎓 Técnico Superior en Desarrollo de Software — Instituto Fermosa (2025)
 - 🧪 QA Manual & Automation — Free Range Testers (2026)
-- 📚 En formación intensiva hasta diciembre de 2026
+- 📚 En formación intensiva en QA Automation
 
 Trabajo como en un equipo real: criterios de aceptación primero, casos de prueba escritos antes de automatizar y, si un criterio no está claro, pregunto en lugar de automatizar a ciegas.
 
