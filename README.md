@@ -1,3 +1,5 @@
+![Joaquín Frías, QA Automation Engineer: Manual & Automation Testing](assets/banner.webp)
+
 # Joaquín Frías · QA Automation Engineer
 
 **Playwright · TypeScript · API testing · SQL**
