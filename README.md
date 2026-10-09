@@ -22,8 +22,8 @@ Trabajo como en un equipo real: criterios de aceptación primero, casos de prueb
 
 | Nivel | Tecnologías |
 |---|---|
-| **Uso habitual** | Playwright, TypeScript, Page Object Model, fixtures, Git y GitHub |
-| **En práctica activa** | Testing de APIs (Postman y `request` de Playwright), SQL para validación de datos, GitHub Actions |
+| **Uso habitual** | Playwright, TypeScript, Git y GitHub |
+| **En formación** (proyectos en preparación) | Page Object Model y fixtures avanzadas, testing de APIs (Postman y `request` de Playwright), SQL para validación de datos, GitHub Actions |
 | **Nociones** | Selenium, Rest Assured (Java), HTML, CSS, JavaScript, PHP |
 
 ---
@@ -33,12 +33,11 @@ Trabajo como en un equipo real: criterios de aceptación primero, casos de prueb
 | Proyecto | Qué es |
 |---|---|
 | **Automation-Exercise-Integral-Testing** *(en construcción)* | Proyecto principal: estrategia de pruebas, E2E y API sobre [automationexercise.com](https://automationexercise.com), con framework escalable e integración continua. |
-| [qa-automation-practice](https://github.com/joaquinfriass/qa-automation-practice) | Práctica diaria en cuatro hilos (Automation Exercise, Restful-Booker, SauceDemo y SQL). Cada sesión deja un commit y una entrada en la bitácora. |
-| [AutomationExercisePlaywright](https://github.com/joaquinfriass/AutomationExercisePlaywright) | Suite E2E con Playwright y TypeScript: Page Object Model, factory de datos únicos y fixtures propias. |
-| [AutomationSandBox-Playwright](https://github.com/joaquinfriass/AutomationSandBox-Playwright) | Prácticas de automatización con Playwright en el sandbox de Free Range Testers. |
-| [RestAssured_Allure_AEAPI](https://github.com/joaquinfriass/RestAssured_Allure_AEAPI) | Pruebas de API con Rest Assured (Java) y reportes con Allure. |
+| [qa-automation-practice](https://github.com/joaquinfriass/qa-automation-practice) | Práctica diaria de automatización, organizada en cuatro hilos. Cada sesión deja un commit y una entrada en la bitácora. |
 
----
+**Estado de `qa-automation-practice`:**
+- ✅ **SauceDemo (UI):** casos de prueba documentados y tests del carrito con Playwright y TypeScript.
+- 🔜 **Automation Exercise, Restful-Booker (API) y SQL:** hilos planificados; hoy solo tienen su README.
 
 ## Proyectos académicos
 
