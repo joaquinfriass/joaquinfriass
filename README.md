@@ -1,10 +1,10 @@
 ![Joaquín Frías, QA Automation Engineer: Manual & Automation Testing](assets/banner.webp)
 
-# Joaquín Frías · QA Automation Engineer
+# Joaquín Frías · QA Engineer
 
 **Playwright · TypeScript · API testing · SQL**
 
-📍 Formosa, Argentina · 🔎 Busco mi primera posición como **QA Automation Engineer**
+📍 Formosa, Argentina · 🔎 Busco mi primera posición como **QA Engineer**
 
 ---
 
